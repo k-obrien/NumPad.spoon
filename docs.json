@@ -1,0 +1,117 @@
+[
+  {
+    "Constant" : [
+
+    ],
+    "submodules" : [
+
+    ],
+    "Function" : [
+
+    ],
+    "Variable" : [
+
+    ],
+    "stripped_doc" : [
+
+    ],
+    "Deprecated" : [
+
+    ],
+    "type" : "Module",
+    "desc" : "Simulated number pad for macOS powered by Hammerspoon's hotkey API.",
+    "Constructor" : [
+
+    ],
+    "doc" : "Simulated number pad for macOS powered by Hammerspoon's hotkey API.\n\nDownload: [https:\/\/github.com\/k-obrien\/NumPad.spoon\/archive\/master.zip](https:\/\/github.com\/k-obrien\/NumPad.spoon\/archive\/master.zip)",
+    "Method" : [
+      {
+        "name" : "bindHotkeys",
+        "stripped_doc" : [
+          "Binds hotkeys for NumPad",
+          ""
+        ],
+        "doc" : "Binds hotkeys for NumPad\n\nParameters:\n * mapping - A table containing hotkey modifier\/key details for the following items:\n  * numLock - Enter\/exit modal number pad state\n  * enter - Confirm input\n  * clear - Clear input\n  * zero - Type the numeral 0\n  * one - Type the numeral 1\n  * two - Type the numeral 2\n  * three - Type the numeral 3\n  * four - Type the numeral 4\n  * five - Type the numeral 5\n  * six - Type the numeral 6\n  * seven - Type the numeral 7\n  * eight - Type the numeral 8\n  * nine - Type the numeral 9\n  * decimal - Type the symbol for a decimal point\n  * division - Type the symbol for addition\n  * multiplication - Type the symbol for addition\n  * substraction - Type the symbol for subtraction\n  * addition - Type the symbol for addition",
+        "desc" : "Binds hotkeys for NumPad",
+        "notes" : [
+
+        ],
+        "signature" : "NumPad:bindHotkeys(mapping)",
+        "type" : "Method",
+        "returns" : [
+
+        ],
+        "def" : "NumPad:bindHotkeys(mapping)",
+        "parameters" : [
+          " * mapping - A table containing hotkey modifier\/key details for the following items:",
+          "  * numLock - Enter\/exit modal number pad state",
+          "  * enter - Confirm input",
+          "  * clear - Clear input",
+          "  * zero - Type the numeral 0",
+          "  * one - Type the numeral 1",
+          "  * two - Type the numeral 2",
+          "  * three - Type the numeral 3",
+          "  * four - Type the numeral 4",
+          "  * five - Type the numeral 5",
+          "  * six - Type the numeral 6",
+          "  * seven - Type the numeral 7",
+          "  * eight - Type the numeral 8",
+          "  * nine - Type the numeral 9",
+          "  * decimal - Type the symbol for a decimal point",
+          "  * division - Type the symbol for addition",
+          "  * multiplication - Type the symbol for addition",
+          "  * substraction - Type the symbol for subtraction",
+          "  * addition - Type the symbol for addition"
+        ]
+      }
+    ],
+    "Field" : [
+
+    ],
+    "items" : [
+      {
+        "name" : "bindHotkeys",
+        "stripped_doc" : [
+          "Binds hotkeys for NumPad",
+          ""
+        ],
+        "doc" : "Binds hotkeys for NumPad\n\nParameters:\n * mapping - A table containing hotkey modifier\/key details for the following items:\n  * numLock - Enter\/exit modal number pad state\n  * enter - Confirm input\n  * clear - Clear input\n  * zero - Type the numeral 0\n  * one - Type the numeral 1\n  * two - Type the numeral 2\n  * three - Type the numeral 3\n  * four - Type the numeral 4\n  * five - Type the numeral 5\n  * six - Type the numeral 6\n  * seven - Type the numeral 7\n  * eight - Type the numeral 8\n  * nine - Type the numeral 9\n  * decimal - Type the symbol for a decimal point\n  * division - Type the symbol for addition\n  * multiplication - Type the symbol for addition\n  * substraction - Type the symbol for subtraction\n  * addition - Type the symbol for addition",
+        "desc" : "Binds hotkeys for NumPad",
+        "notes" : [
+
+        ],
+        "signature" : "NumPad:bindHotkeys(mapping)",
+        "type" : "Method",
+        "returns" : [
+
+        ],
+        "def" : "NumPad:bindHotkeys(mapping)",
+        "parameters" : [
+          " * mapping - A table containing hotkey modifier\/key details for the following items:",
+          "  * numLock - Enter\/exit modal number pad state",
+          "  * enter - Confirm input",
+          "  * clear - Clear input",
+          "  * zero - Type the numeral 0",
+          "  * one - Type the numeral 1",
+          "  * two - Type the numeral 2",
+          "  * three - Type the numeral 3",
+          "  * four - Type the numeral 4",
+          "  * five - Type the numeral 5",
+          "  * six - Type the numeral 6",
+          "  * seven - Type the numeral 7",
+          "  * eight - Type the numeral 8",
+          "  * nine - Type the numeral 9",
+          "  * decimal - Type the symbol for a decimal point",
+          "  * division - Type the symbol for addition",
+          "  * multiplication - Type the symbol for addition",
+          "  * substraction - Type the symbol for subtraction",
+          "  * addition - Type the symbol for addition"
+        ]
+      }
+    ],
+    "Command" : [
+
+    ],
+    "name" : "NumPad"
+  }
+]
